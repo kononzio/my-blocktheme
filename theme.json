@@ -2,6 +2,50 @@
 	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
 	"settings": {
 		"appearanceTools": true,
+		"color": {
+			"palette": [
+				{
+					"color": "f9f9f9",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#111111",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "636363",
+					"name": "Contrast Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#a4a4a4",
+					"name": "Contrast Three",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#c2a990",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#d8613c",
+					"name": "Accent Two",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#b1c5a4",
+					"name": "Accent Three",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#b5bdbc",
+					"name": "Accent Four",
+					"slug": "accent-4"
+				}
+			]
+		},
 		"layout": {
 			"contentSize": "620px",
 			"wideSize": "1000px"
